@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10/06/2015, 18:15:51
+    Author     : Marcelo Augusto
+*/
+
+#bs-example-navbar-collapse-1 a:hover{
+    background-color: #c0c0c0;
+}
+#bs-index-navbar-collapse-1 a:hover{
+    background-color: #ff8940;
+}
+
+#banner-saldao{
+    margin: 20px;
+    height: 100px;
+    font-size: 70px;
+    color: white;
+    background-color: #e00000;
+    text-align: center;
+}
+#formCadastroCliente{
+    margin-left: 20%;
+}
